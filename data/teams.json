@@ -1,0 +1,15 @@
+{
+  "owner_1772985699": {
+    "owner_id": 1772985699,
+    "owner_username": "ThatIsDreamer",
+    "description": "Мы геймкоманды для создания крутых игр!",
+    "roles_needed": [
+      "programmer",
+      "designer",
+      "music"
+    ],
+    "is_paused": false,
+    "members": [],
+    "created_at": "2026-02-16T18:40:06.346782"
+  }
+}
